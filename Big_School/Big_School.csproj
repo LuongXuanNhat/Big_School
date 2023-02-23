@@ -131,6 +131,7 @@
       <DependentUpon>202302230222284_InitialModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\myData - Copy.cs" />
     <Compile Include="Models\myData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
